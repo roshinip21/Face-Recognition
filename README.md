@@ -41,7 +41,8 @@ o	Store embeddings in the database.
 o	Perform similarity matching for uploaded images.
 3.	Review the outputs in the Colab notebook, including visualizations and logs.
  
-#Deployment
+## Deployment
+
 This project runs in a Google Colab Notebook. To execute:
 1.	Upload the Colab notebook and required files to your Google Drive.
 2.	Open the notebook in Google Colab and run the code as described in the Running the Code section.
