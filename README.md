@@ -46,4 +46,4 @@ o	Perform similarity matching for uploaded images.
 This project runs in a Google Colab Notebook. To execute:
 1.	Upload the Colab notebook and required files to your Google Drive.
 2.	Open the notebook in Google Colab and run the code as described in the Running the Code section.
-![image](https://github.com/user-attachments/assets/7a5eee80-4680-424d-af23-993eaa80458d)
+
