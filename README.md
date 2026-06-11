@@ -1,5 +1,5 @@
 ## Face-Recognition
-An Image recognition an detection application built with Python, OpenCV, Haar Cascade model and PostgreSQL pgvector
+An Image recognition and detection application built with Python, OpenCV, Haar Cascade model and PostgreSQL pgvector
 
 
 ## Description
